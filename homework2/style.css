@@ -1,0 +1,14 @@
+header {
+  
+    background-color: pink;
+    color: black;;
+    width : 100%;
+    border: 20px;
+    padding:20px;
+}
+
+p {
+text-align: center;
+font-weight: bold;
+
+}
